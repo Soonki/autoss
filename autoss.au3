@@ -1,7 +1,6 @@
 ;
-; Name: AutoCapture.exe (by soonki.ji@gmail.com), 2009-11-01
-; Author: soonki.ji@gmail.com
-; Desc: Take a screenshot for each mouse click, enter key or active window title change.
+; 2009-11-01, soonki.ji@gmail.com, autoss.exe
+; Description: Take a screenshot for each mouse click, enter key or active window title change.
 ;
 #include <timers.au3>
 #include <ScreenCapture.au3>
